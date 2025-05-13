@@ -10,7 +10,7 @@ This is a Python-based command-line quiz application that allows users to test t
 
 Each quiz presents 5 multiple-choice questions with 4 options (A/B/C/D). After each question, you'll get instant feedback, and a final score is displayed at the end.
 
-## How to run
+## How to run?
 
     🔸run in command line terminal as
         python main.py
@@ -22,16 +22,16 @@ Each quiz presents 5 multiple-choice questions with 4 options (A/B/C/D). After e
     🔸View your score at the end!
 
 ## output images:
-### Quiz start menu
+### Quiz start menu:
 <img src="images/quiz start menu.png" alt="quiz start menu" width=500>
 
-### Incorrect answer
+### Incorrect answer:
 <img src="images/incorrect answer.png" alt="incorrect answer" width=500>
 
-### Final score
+### Final score:
 <img src="images/correct answer and final score.png" alt="correct and final answer" width=500>
 
-## Future improvements
+## Future improvements:
 
     🔸Convert to a web app using Flask or Django
 
