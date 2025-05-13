@@ -23,13 +23,13 @@ Each quiz presents 5 multiple-choice questions with 4 options (A/B/C/D). After e
 
 ## output images:
 ### Quiz start menu
-<img src="images/quiz start menu.png", alt="quiz start menu", width=500>
+<img src="images/quiz start menu.png" alt="quiz start menu" width=500>
 
 ### Incorrect answer
-<img src="images/incorrect answer.png", alt="incorrect answer", width=500>
+<img src="images/incorrect answer.png" alt="incorrect answer" width=500>
 
 ### Final score
-<img src="images/correct answer and final score.png", alt="correct and final answer", width=500>
+<img src="images/correct answer and final score.png" alt="correct and final answer" width=500>
 
 ## Future improvements
 
